@@ -24,5 +24,5 @@ The discussion highlights the implications and challenges of deploying EEG-enhan
 
 <h3>Conclusion</h3>
 Integrating EEG technology with chatbot systems powered by GPT-3 offers promising opportunities to advance healthcare interaction and improve patient engagement and outcomes. By leveraging EEG signals to capture users' cognitive and emotional states, chatbots can deliver personalized healthcare assistance tailored to individual needs and preferences. Further research and development in this area have the potential to transform healthcare delivery and enhance the quality of patient care.
-
+<br><br>
 Are you intrigued? Let's collaborate! Reach out to me at taha.abbas@gmail.com or call +923312622781 to begin building together.
