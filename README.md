@@ -4,6 +4,8 @@
 
 <h2>Advancing Healthcare Interaction: EEG-Enhanced Chatbot System Integrated with GPT-3</h2>
 
+<img src="https://www.emotiv.com/cdn/shop/files/Store_Epoc-X_1_1220x_crop_center.jpg?v=1711425075" style="width: 250px" /> &nbsp; <img src="https://cdn.neowin.com/news/images/uploaded/2021/01/1609914495_openai-cover_story.jpg"  style="width: 250px" />
+
 <h3>Abstract</h3>
 This research paper explores the integration of Electroencephalography (EEG) technology with a conversational AI chatbot system powered by OpenAI's GPT-3, aiming to revolutionize healthcare interaction. The study investigates the potential of EEG signals to provide real-time feedback to a chatbot, enabling personalized and adaptive healthcare assistance tailored to the user's cognitive and emotional states. The paper discusses the technical implementation, ethical considerations, and potential applications of the EEG-enhanced chatbot system in healthcare settings.
 
