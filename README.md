@@ -1,8 +1,8 @@
-# EEG-GPT3
+# EEG-GPT4
 
 <h1>Research Paper</h1>
 
-<h2>Advancing Healthcare Interaction: EEG-Enhanced Chatbot System Integrated with GPT-3</h2>
+<h2>Advancing Healthcare Interaction: EEG-Enhanced Chatbot System Integrated with GPT-4</h2>
 
 <img src="https://www.emotiv.com/cdn/shop/files/Store_Epoc-X_1_1220x_crop_center.jpg?v=1711425075" style="height: 250px" /> &nbsp; <img src="https://cdn.neowin.com/news/images/uploaded/2021/01/1609914495_openai-cover_story.jpg"  style="height: 250px" />
 
